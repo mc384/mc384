@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Hugging Face for NLP
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
 
 <!---
 mc384/mc384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
