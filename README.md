@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mc384
 - 👀 I study statistics
-- 🌱 I’m interested in building recommender systems
-- 💞️ I’m looking to collaborate on projects
+- 🌱 MY current interests are in building recommender systems
+- 💞️ I’m always open to collaborating on projects
 
 <!---
 mc384/mc384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
