@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mc384
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Hugging Face for NLP
+- 👀 I study statistics
+- 🌱 I’m interested in building recommender systems
 - 💞️ I’m looking to collaborate on projects
 
 <!---
