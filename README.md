@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mc384
 - 👀 I study statistics
-- 🌱 My current interests are in building recommender systems
+- 🌱 My current interests are in causal inference
 - 💞️ I’m always open to collaborating on projects
 
 <!---
